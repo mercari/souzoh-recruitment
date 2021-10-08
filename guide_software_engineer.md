@@ -4,7 +4,7 @@
 よりよい選考フローの実現のため内容は随時アップデートいたします。また、変更に関する Commit や Pull Request を含め全て公開しています。Souzoh 外からの Pull Request や Issue も歓迎しています！
 
 ソフトウェアエンジニアを含めた、Souzoh で募集している全職種は[こちら](https://careers.mercari.com/jp/search-jobs/?cat=souzoh-inc)です。応募いただく際は、必ず募集要項の内容をご確認ください。<br>
-※Machine Learning、Site Reliability、QA Test エンジニアの採用フローは本ガイドとは異なります。ご了承ください
+※Machine Learning、Site Reliability、QA Test エンジニアの採用フローは本ガイドとは異なります。ご了承ください。
 
 Souzoh の企業情報やイベント情報、カジュアル面談の申込方法等は[コーポレートサイト](https://souzoh.com/)に掲載しておりますので、ぜひご覧ください。
 
@@ -105,7 +105,7 @@ Souzoh で働くにあたってミスマッチがないかお互いに確認す�
 また、応募者にどのグレードで入社していただくか面接で判断させていただきます。<br>
 ※メルカリグループではエンジニアのグレードは[Engineering Ladder](https://engineering.mercari.com/ladder/)として定義されています。
 
-面接は以下の流れで実施します（状況に応じて多少時間が前後することがあります）
+面接は以下の流れで実施します（状況に応じて多少時間が前後することがあります）。
 
 1. アイスブレイクとお互いの自己紹介（5 分）
 1. 面接官から応募者への質問（45 分）
@@ -142,8 +142,8 @@ Souzoh で働くにあたってミスマッチがないかお互いに確認す�
 
 ## カジュアル面談
 
-Souzoh では、応募いただく前でも選考中でもいつでもカジュアル面談を申し込んでいただけます。<br>
-[フォーム](https://docs.google.com/forms/d/e/1FAIpQLSe_YPZc0uj0gCGymBGPWQv9zNEjNUMYeQwQyaQAPuvIhaQ7dQ/viewform)から申し込んでいただくか、[Meety](https://meety.net/articles/t2--n5r3zju15b)で話したいメンバーに申し込んでいただけます。
+Souzoh では、応募いただく前でも選考中でもいつでもカジュアル面談をお申し込みいただけます。<br>
+[フォーム](https://docs.google.com/forms/d/e/1FAIpQLSe_YPZc0uj0gCGymBGPWQv9zNEjNUMYeQwQyaQAPuvIhaQ7dQ/viewform)からお申し込みいただくか、[Meety](https://meety.net/articles/t2--n5r3zju15b)で話したいメンバーにお申し込みいただけます。
 
 カジュアル面談の目的は、Souzoh に興味を持っていただいた方に会社の方向性や組織、プロダクト、働き方などについて理解を深めていただくことです。Meety の場合は、よりカジュアルにメンバーと自由にお話しいただくことを想定しています。<br>
 どちらの場合も面接ではないので、応募者の意に反して選考が始まることも評価がされることもありませんのでご安心ください。
@@ -152,10 +152,10 @@ Souzoh では、応募いただく前でも選考中でもいつでもカジュ�
 
 [Job Description](https://mercari.wd3.myworkdayjobs.com/mercari_external/job/Software-Engineer--Souzoh-_JR-000000314)には以下のように記載していますが、実際にどの程度の言語能力が必要なのか補足します。
 
-- 英語：Independent (CEFR - B2) 歓迎
-- 日本語：Proficient (CEFR-C1)
+- 英語：Independent（CEFR - B2）歓迎
+- 日本語：Proficient（CEFR-C1）
 
-※CEFR の詳細については、[こちら](https://careers.mercari.com/jp/language/)をご覧ください
+※CEFR の詳細については、[こちら](https://careers.mercari.com/jp/language/)をご覧ください。
 
 現在の Souzoh は日本語でのコミュニケーションが中心で、英語でのベーシックな読み書きに抵抗感がなければ業務をこなす上で障害にはならないと思います。一方で、中長期では採用やグループ内連携の観点から英語化を進めていきたいと考えているので、エンジニアリングに限らず英語でのコミュニケーションにもチャレンジしていきたい方にお勧めの環境です。
 
@@ -177,4 +177,4 @@ Souzoh では、応募いただく前でも選考中でもいつでもカジュ�
 - GitHub の Pull Request 上でのテキストでの議論
 - Design Doc などのエンジニア向けドキュメント作成
 - 開発用の Slack チャンネルでのテキストコミュニケーション
-- English Speaker を交えたミーティングでの議論(歓迎条件、低頻度)
+- English Speaker を交えたミーティングでの議論（歓迎条件、低頻度）
