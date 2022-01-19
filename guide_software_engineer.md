@@ -150,7 +150,7 @@ Souzoh では、応募いただく前でも選考中でもいつでもカジュ�
 
 ## 言語環境についての補足
 
-[Job Description](https://mercari.wd3.myworkdayjobs.com/mercari_external/job/Software-Engineer--Souzoh-_JR-000000314)には以下のように記載していますが、実際にどの程度の言語能力が必要なのか補足します。
+[Job Description](https://apply.workable.com/mercari/j/0B1D73D777/)には以下のように記載していますが、実際にどの程度の言語能力が必要なのか補足します。
 
 - 英語：Independent（CEFR - B2）歓迎
 - 日本語：Proficient（CEFR-C1）
